@@ -15,7 +15,7 @@ class Student {
 
 public class Q01_StudentRecord {
     public static void main(String[] args) {
-        Student student = new Student("Rahul Sharma", 101);
+        Student student = new Student("Abhay bhardwaj", 101);
         student.display();
     }
 }
